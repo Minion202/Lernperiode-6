@@ -16,16 +16,17 @@ Für mein Projekt habe ich mich entschieden, ein OOP zu machen. Dabei kann man v
 
 ## 23.8
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die grobe Planung meines Projekts erstellt. Meine Ideen und Ziele sind nun klar definiert, 
+und ich habe bereits mit den Farben und den Buttons begonnen.
 
 ## 30.8
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
-
+- [ ] Offline ein Design entwerfen, wie das Endresultat aussehen soll.
+- [ ] Die Buttons vergrössern und so anpassen, dass sie optisch ansprechend wirken und gleichmässig auf dem Bildschirm verteilt sind.
+- [ ] Auf den Buttons die Abilities und Stärken des Ninjas vermerken, sodass beim Darüberfahren mit der Maus eine Beschreibung des jeweiligen Ninjas angezeigt wird.
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 
