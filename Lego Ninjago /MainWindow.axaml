@@ -1,0 +1,91 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        x:Class="Lego_Ninjago.MainWindow"
+        Title="Lego_Ninjago"
+        Background="DimGray"
+        d:DesignWidth="800" d:DesignHeight="450"
+        Width="800" Height="450">
+
+  <Grid RowDefinitions="Auto,*">
+    <TextBlock Grid.Row="0"
+               Text="Welcome to Pick your Ninja!"
+               FontSize="40"
+               Foreground="Black"
+               FontWeight="Bold"
+               HorizontalAlignment="Center"
+               Margin="0,16,0,8"/>
+
+    <Grid Grid.Row="1" Margin="16"
+          RowDefinitions="*,*,*"
+          ColumnDefinitions="*,*,*">
+
+      <Button Grid.Row="0" Grid.Column="0"
+              Content="COLE" 
+              Width="450" 
+              Height="250"
+              Background="Black" 
+              Foreground="AliceBlue"
+              FontWeight="Bold" 
+              FontSize="100"
+              HorizontalAlignment="Left" 
+              VerticalAlignment="Top"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"/>
+
+      <Button Grid.Row="0" Grid.Column="2"
+              Content="JAY" 
+              Width="450" 
+              Height="250"
+              Background="DarkBlue" 
+              Foreground="AliceBlue"
+              FontWeight="Bold" 
+              FontSize="100"
+              HorizontalAlignment="Right" 
+              VerticalAlignment="Top"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"/>
+
+      <Button Grid.Row="1" Grid.Column="1"
+              Content="LLOYD" 
+              Width="450" 
+              Height="250"
+              Background="DarkGreen" 
+              Foreground="AliceBlue"
+              FontWeight="Bold" 
+              FontSize="100"
+              HorizontalAlignment="Center" 
+              VerticalAlignment="Center"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"/>
+
+      <Button Grid.Row="2" Grid.Column="0"
+              Content="KAI" 
+              Width="450" 
+              Height="250"
+              Background="Brown" 
+              Foreground="AliceBlue"
+              FontWeight="Bold" 
+              FontSize="100"
+              HorizontalAlignment="Left" 
+              VerticalAlignment="Bottom"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"/>
+
+      <Button Grid.Row="2" Grid.Column="2"
+              Content="ZANE"
+              Width="450" 
+              Height="250"
+              Background="AliceBlue" 
+              Foreground="Black"
+              FontWeight="Bold" 
+              FontSize="100"
+              HorizontalAlignment="Right" 
+              VerticalAlignment="Bottom"
+              HorizontalContentAlignment="Center"
+              VerticalContentAlignment="Center"/>
+    </Grid>
+  </Grid>
+</Window>
