@@ -1,13 +1,10 @@
 <Window xmlns="https://github.com/avaloniaui"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d"
         x:Class="Lego_Ninjago.MainWindow"
-        Title="Lego_Ninjago"
+        Title="Lego Ninjago"
         Background="DimGray"
-        d:DesignWidth="800" d:DesignHeight="450"
-        Width="800" Height="450">
+        MinWidth="720" MinHeight="420"
+        Width="900" Height="560">
 
   <Grid RowDefinitions="Auto,*">
     <TextBlock Grid.Row="0"
@@ -19,73 +16,63 @@
                Margin="0,16,0,8"/>
 
     <Grid Grid.Row="1" Margin="16"
-          RowDefinitions="*,*,*"
-          ColumnDefinitions="*,*,*">
+          RowDefinitions="*,*,*" ColumnDefinitions="*,*,*">
+      
+      <Button x:Name="BtnCole"
+              Grid.Row="0" Grid.Column="0"
+              Background="Black" Foreground="AliceBlue"
+              FontWeight="Bold"
+              HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+              Margin="8" MinWidth="160" MinHeight="120">
+        <Viewbox Stretch="Uniform">
+          <TextBlock Text="COLE"/>
+        </Viewbox>
+      </Button>
 
-      <Button Grid.Row="0" Grid.Column="0"
-              Content="COLE" 
-              Width="450" 
-              Height="250"
-              Background="Black" 
-              Foreground="AliceBlue"
-              FontWeight="Bold" 
-              FontSize="100"
-              HorizontalAlignment="Left" 
-              VerticalAlignment="Top"
-              HorizontalContentAlignment="Center"
-              VerticalContentAlignment="Center"/>
+      <Button x:Name="BtnJay"
+              Grid.Row="0" Grid.Column="2"
+              Background="DarkBlue" Foreground="AliceBlue"
+              FontWeight="Bold"
+              HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+              Margin="8" MinWidth="160" MinHeight="120">
+        <Viewbox Stretch="Uniform">
+          <TextBlock Text="JAY"/>
+        </Viewbox>
+      </Button>
 
-      <Button Grid.Row="0" Grid.Column="2"
-              Content="JAY" 
-              Width="450" 
-              Height="250"
-              Background="DarkBlue" 
-              Foreground="AliceBlue"
-              FontWeight="Bold" 
-              FontSize="100"
-              HorizontalAlignment="Right" 
-              VerticalAlignment="Top"
-              HorizontalContentAlignment="Center"
-              VerticalContentAlignment="Center"/>
+      <Button x:Name="BtnLloyd"
+              Grid.Row="1" Grid.Column="1"
+              Background="DarkGreen" Foreground="AliceBlue"
+              FontWeight="Bold"
+              HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+              Margin="8" MinWidth="160" MinHeight="120">
+        <Viewbox Stretch="Uniform">
+          <TextBlock Text="LLOYD"/>
+        </Viewbox>
+      </Button>
 
-      <Button Grid.Row="1" Grid.Column="1"
-              Content="LLOYD" 
-              Width="450" 
-              Height="250"
-              Background="DarkGreen" 
-              Foreground="AliceBlue"
-              FontWeight="Bold" 
-              FontSize="100"
-              HorizontalAlignment="Center" 
-              VerticalAlignment="Center"
-              HorizontalContentAlignment="Center"
-              VerticalContentAlignment="Center"/>
+      <Button x:Name="BtnKai"
+              Grid.Row="2" Grid.Column="0"
+              Background="Brown" Foreground="AliceBlue"
+              FontWeight="Bold"
+              HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+              Margin="8" MinWidth="160" MinHeight="120">
+        <Viewbox Stretch="Uniform">
+          <TextBlock Text="KAI"/>
+        </Viewbox>
+      </Button>
 
-      <Button Grid.Row="2" Grid.Column="0"
-              Content="KAI" 
-              Width="450" 
-              Height="250"
-              Background="Brown" 
-              Foreground="AliceBlue"
-              FontWeight="Bold" 
-              FontSize="100"
-              HorizontalAlignment="Left" 
-              VerticalAlignment="Bottom"
-              HorizontalContentAlignment="Center"
-              VerticalContentAlignment="Center"/>
+      <Button x:Name="BtnZane"
+              Grid.Row="2" Grid.Column="2"
+              Background="AliceBlue" Foreground="Black"
+              FontWeight="Bold"
+              HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+              Margin="8" MinWidth="160" MinHeight="120">
+        <Viewbox Stretch="Uniform">
+          <TextBlock Text="ZANE"/>
+        </Viewbox>
+      </Button>
 
-      <Button Grid.Row="2" Grid.Column="2"
-              Content="ZANE"
-              Width="450" 
-              Height="250"
-              Background="AliceBlue" 
-              Foreground="Black"
-              FontWeight="Bold" 
-              FontSize="100"
-              HorizontalAlignment="Right" 
-              VerticalAlignment="Bottom"
-              HorizontalContentAlignment="Center"
-              VerticalContentAlignment="Center"/>
     </Grid>
   </Grid>
 </Window>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BICDrLBQLt0=",
+  "dgSpecHash": "wS0rAr1a4Is=",
   "success": true,
-  "projectFilePath": "/Users/mina/RiderProjects/Lego Ninjago /Lego Ninjago /Lego Ninjago.csproj",
+  "projectFilePath": "/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /Lego Ninjago.csproj",
   "expectedPackageFiles": [
     "/Users/mina/.nuget/packages/avalonia/11.2.1/avalonia.11.2.1.nupkg.sha512",
     "/Users/mina/.nuget/packages/avalonia.angle.windows.natives/2.1.22045.20230930/avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",

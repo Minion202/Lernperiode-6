@@ -16,3 +16,22 @@
 /Users/mina/RiderProjects/Lego Ninjago /Lego Ninjago /obj/Debug/net9.0/Lego Nin.87CEA9D7.Up2Date
 /Users/mina/RiderProjects/Lego Ninjago /Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.genruntimeconfig.cache
 /Users/mina/RiderProjects/Lego Ninjago /Lego Ninjago /obj/Debug/net9.0/ref/Lego Ninjago.dll
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /bin/Debug/net9.0/Lego Ninjago
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /bin/Debug/net9.0/Lego Ninjago.deps.json
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /bin/Debug/net9.0/Lego Ninjago.runtimeconfig.json
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /bin/Debug/net9.0/Lego Ninjago.dll
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /bin/Debug/net9.0/Lego Ninjago.pdb
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.csproj.AssemblyReference.cache
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Avalonia/resources
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.AssemblyInfoInputs.cache
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.AssemblyInfo.cs
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.csproj.CoreCompileInputs.cache
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.sourcelink.json
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Avalonia/Lego Ninjago.dll
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Avalonia/Lego Ninjago.pdb
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/refint/Avalonia/Lego Ninjago.dll
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Nin.87CEA9D7.Up2Date
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/Lego Ninjago.genruntimeconfig.cache
+/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /obj/Debug/net9.0/ref/Lego Ninjago.dll
