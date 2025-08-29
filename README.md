@@ -4,6 +4,12 @@
 
 ## Grob-Planung
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/05a7534f-5c82-448f-8ebf-f7ccfc1165c1" />
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/7ae10d41-75e4-473b-8030-3b1312e60339" />
+
+
+
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 2. Welches der Module 231, 320, 322 scheint Ihnen besonders wichtig? Wo brauchen Sie am meisten Übung?
 3. Was wäre ein geeignetes Projekt für diese LP6? Würde sich dieses auch eignen, um es Ihrer Bewerbung hinzuzufügen?
@@ -21,14 +27,23 @@ und ich habe bereits mit den Farben und den Buttons begonnen.
 
 ## 30.8
 
-- [ ] Offline ein Design entwerfen, wie das Endresultat aussehen soll.
-- [ ] Die Buttons vergrössern und so anpassen, dass sie optisch ansprechend wirken und gleichmässig auf dem Bildschirm verteilt sind.
-- [ ] Auf den Buttons die Abilities und Stärken des Ninjas vermerken, sodass beim Darüberfahren mit der Maus eine Beschreibung des jeweiligen Ninjas angezeigt wird.
+- [x] Offline ein Design entwerfen, wie das Endresultat aussehen soll.
+- [x] Die Buttons vergrössern und so anpassen, dass sie optisch ansprechend wirken und gleichmässig auf dem Bildschirm verteilt sind.
+- [x] Auf den Buttons die Abilities und Stärken des Ninjas vermerken, sodass beim Darüberfahren mit der Maus eine Beschreibung des jeweiligen Ninjas angezeigt wird.
 
       
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich alles Ziele die ich erreichen wollte erreicht. Dazu gehört dass ich das Design erstellt habe, und bis jetzt gefallt es mir eigentlich sehr aber es könnte sein das ich noch ein paar sachen später ändern werde, die buttons sind nun grösser und responsive g auf dem Bildschirm und wenn ich mit meiner Maus auf dem Button bin werden abillities elemente etc angezeigt.
+
+
+## 01.9
+
+- [ ] Bilder von den Ninjas auf der Startseite einfügen, sodass sie nacheinander angezeigt werden, wenn ich die Bilder hineinlade
+- [ ] Die Bilder sollen mit Pfeilen durchgeblättert werden können
+- [ ] Es soll einen Done-Button geben, der erscheint, sobald man alle Bilder angeschaut hat; danach soll man auf die Choose-Seite weitergeleitet werden
+- [ ] Bei jedem Ninja soll man zudem auf eine eigene Seite gelangen können, auf der dann nur dieser eine Ninja angezeigt wird
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 
 
