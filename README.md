@@ -1,4 +1,4 @@
-# Lern-Periode 6
+# Lernperiode 6
 
 12.8 bis 27.9.2024
 
@@ -29,6 +29,7 @@ und ich habe bereits mit den Farben und den Buttons begonnen.
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 
 
