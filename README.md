@@ -37,15 +37,19 @@ Heute habe ich alles Ziele die ich erreichen wollte erreicht. Dazu gehört dass 
 
 ## 01.9
 
-- [ ] Bilder von den Ninjas auf der Startseite einfügen, sodass sie nacheinander angezeigt werden, wenn ich die Bilder hineinlade
-- [ ] Die Bilder sollen mit Pfeilen durchgeblättert werden können
-- [ ] Es soll einen Done-Button geben, der erscheint, sobald man alle Bilder angeschaut hat; danach soll man auf die Choose-Seite weitergeleitet werden
-- [ ] Offline, eine Idee erstellen fpr die jeweiligen Waffen
+- [x] Bilder von den Ninjas auf der Startseite einfügen, sodass sie nacheinander angezeigt werden, wenn ich die Bilder hineinlade
+- [x] Die Bilder sollen mit Pfeilen durchgeblättert werden können
+- [x] Es soll einen Done-Button geben, der erscheint, sobald man alle Bilder angeschaut hat; danach soll man auf die Choose-Seite weitergeleitet werden
+- [x] Offline, eine Idee erstellen fpr die jeweiligen Waffen
+
+
+
+
+## 12.9
+
+- [ ] Bei jedem Ninja soll man zudem auf eine eigene Seite gelangen können, auf der dann nur dieser eine Ninja angezeigt wird
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
-
-
-Bei jedem Ninja soll man zudem auf eine eigene Seite gelangen können, auf der dann nur dieser eine Ninja angezeigt wird
 
 
 
