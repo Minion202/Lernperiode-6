@@ -8,6 +8,9 @@
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/7ae10d41-75e4-473b-8030-3b1312e60339" />
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d2182a3-cef2-477f-8ea4-459a84477a2d" />
+
+
 
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
@@ -55,6 +58,7 @@ Jetzt habe ich es aber gelernt und werde es beim nächsten Mal wieder anwenden.
 - [ ] Es sollen sechs Waffen erstellt werden, die responsive dargestellt werden.
       
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 
 
