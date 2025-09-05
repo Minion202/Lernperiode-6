@@ -40,16 +40,22 @@ Heute habe ich alles Ziele die ich erreichen wollte erreicht. Dazu gehört dass 
 - [x] Bilder von den Ninjas auf der Startseite einfügen, sodass sie nacheinander angezeigt werden, wenn ich die Bilder hineinlade
 - [x] Die Bilder sollen mit Pfeilen durchgeblättert werden können
 - [x] Es soll einen Done-Button geben, der erscheint, sobald man alle Bilder angeschaut hat; danach soll man auf die Choose-Seite weitergeleitet werden
-- [x] Offline, eine Idee erstellen fpr die jeweiligen Waffen
+- [x] Offline, eine Design für die letzte Seite erstellen
 
+Heute habe ich alle Ziele erreicht, die ich mir vorgenommen habe. Mein Spiel nimmt langsam Form an. Am Anfang hatte ich Schwierigkeiten mit den Bildern, da ich so etwas noch nie in Avalonia gemacht hatte. 
+Jetzt habe ich es aber gelernt und werde es beim nächsten Mal wieder anwenden.
 
 
 
 ## 12.9
 
 - [ ] Bei jedem Ninja soll man zudem auf eine eigene Seite gelangen können, auf der dann nur dieser eine Ninja angezeigt wird
-
+- [ ] Es soll ein Button mit der Aufschrift „Choose“ erstellt werden, über den man den entsprechenden Ninja auswählen kann.
+- [ ] Nachdem man auf „Choose“ geklickt hat, soll man auf eine neue Seite weitergeleitet werden, auf der die Waffen ausgewählt werden können.
+- [ ] Es sollen sechs Waffen erstellt werden, die responsive dargestellt werden.
+      
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 
 
