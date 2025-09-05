@@ -3,7 +3,7 @@ using System;
 
 namespace Lego_Ninjago
 {
-    class Program
+    internal class Program
     {
         [STAThread]
         public static void Main(string[] args) =>

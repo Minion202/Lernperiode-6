@@ -19,4 +19,17 @@
             <PrivateAssets Condition="'$(Configuration)' != 'Debug'">All</PrivateAssets>
         </PackageReference>
     </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Ninjapic\COLE.jpg" />
+      <AvaloniaResource Include="Ninjapic\COLE.jpg" />
+      <None Remove="Ninjapic\JAY.png" />
+      <AvaloniaResource Include="Ninjapic\JAY.png" />
+      <None Remove="Ninjapic\KAI.webp" />
+      <AvaloniaResource Include="Ninjapic\KAI.webp" />
+      <None Remove="Ninjapic\LLOYD.webp" />
+      <AvaloniaResource Include="Ninjapic\LLOYD.webp" />
+      <None Remove="Ninjapic\ZANE.webp" />
+      <AvaloniaResource Include="Ninjapic\ZANE.webp" />
+    </ItemGroup>
 </Project>
