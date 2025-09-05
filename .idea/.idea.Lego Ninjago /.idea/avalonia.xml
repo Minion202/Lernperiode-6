@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Lego Ninjago /App.axaml" value="Lego Ninjago /Lego Ninjago.csproj" />
+        <entry key="Lego Ninjago /MainWindow.axaml" value="Lego Ninjago /Lego Ninjago.csproj" />
+        <entry key="Lego Ninjago /MainWindow.axaml.cs.axaml" value="Lego Ninjago /Lego Ninjago.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
