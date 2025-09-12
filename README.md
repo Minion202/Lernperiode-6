@@ -52,12 +52,22 @@ Jetzt habe ich es aber gelernt und werde es beim nächsten Mal wieder anwenden.
 
 ## 12.9
 
-- [ ] Bei jedem Ninja soll man zudem auf eine eigene Seite gelangen können, auf der dann nur dieser eine Ninja angezeigt wird
-- [ ] Es soll ein Button mit der Aufschrift „Choose“ erstellt werden, über den man den entsprechenden Ninja auswählen kann.
-- [ ] Nachdem man auf „Choose“ geklickt hat, soll man auf eine neue Seite weitergeleitet werden, auf der die Waffen ausgewählt werden können.
-- [ ] Es sollen sechs Waffen erstellt werden, die responsive dargestellt werden.
-      
+- [x] Bei jedem Ninja soll man zudem auf eine eigene Seite gelangen können, auf der dann nur dieser eine Ninja angezeigt wird
+- [x] Es soll ein Button mit der Aufschrift „Choose“ erstellt werden, über den man den entsprechenden Ninja auswählen kann.
+- [x] Nachdem man auf „Choose“ geklickt hat, soll man auf eine neue Seite weitergeleitet werden, auf der die Waffen ausgewählt werden können.
+- [x] Es sollen sechs Waffen erstellt werden, die responsive dargestellt werden.
+
+Ich habe heute alles umgesetzt, allerdings funktioniert der Wechsel zur neuen Weapons-Seite noch nicht, obwohl ich sicher bin, dass ich alles dafür erstellt habe. Mein Ziel ist es, dieses Problem bis zum nächsten Mal zu beheben. Insgesamt bin ich jedoch sehr zufrieden, da ich heute grosse Fortschritte gemacht habe.
+
+## 19.9
+
+- [ ] Die Navigation zur Weapons-Seite reparieren, sodass beim Klick auf „Choose“ die Detailseite schliesst und die Weapons-Seite mit den Ninja-Daten öffnet.
+- [ ] Auf der Weapons-Seite sechs Waffen mit Bild, Namen und „Select“-Button responsive in einem schönen Layout anzeigen.
+- [ ] Das gesamte Design mit Farben, Abständen, runden Karten, Schatten und Effekten optisch ansprechender gestalten.
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+
 
 
 
