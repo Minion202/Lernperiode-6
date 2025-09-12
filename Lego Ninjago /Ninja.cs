@@ -18,6 +18,6 @@ namespace Lego_Ninjago
         public string BuildTooltip() =>
             $"{Name} – Element: {Element}\n" +
             $"Abilities: {string.Join(", ", Abilities)}\n" +
-            $"Stärken: {string.Join(", ", Strengths)}";
+            $"Staerken: {string.Join(", ", Strengths)}";
     }
 }

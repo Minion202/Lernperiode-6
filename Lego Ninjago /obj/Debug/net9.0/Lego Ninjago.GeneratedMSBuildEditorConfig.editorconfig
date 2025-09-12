@@ -26,3 +26,9 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /NinjaDetailWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/Users/mina/RiderProjects/LernPeriode-6/Lego Ninjago /WeaponsWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

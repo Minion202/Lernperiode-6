@@ -29,6 +29,13 @@ namespace Lego_Ninjago
             BtnNext.Click += (_, __) => ShowNext();
             BtnDone.Click += (_, __) => ShowChoose();
 
+            // Buttons to open detail pages
+            BtnCole.Click  += (_, __) => OpenDetail("COLE");
+            BtnJay.Click   += (_, __) => OpenDetail("JAY");
+            BtnLloyd.Click += (_, __) => OpenDetail("LLOYD");
+            BtnKai.Click   += (_, __) => OpenDetail("KAI");
+            BtnZane.Click  += (_, __) => OpenDetail("ZANE");
+
             KeyDown += (_, e) =>
             {
                 if (e.Key == Key.Left) ShowPrev();
@@ -56,7 +63,7 @@ namespace Lego_Ninjago
             using var stream = TryOpenImageStream(_asmName, key, out _);
             if (stream != null)
                 ImgNinja.Source = new Bitmap(stream);
-            
+
             BtnDone.IsVisible = _index == _order.Length - 1;
         }
 
@@ -64,6 +71,14 @@ namespace Lego_Ninjago
         {
             SlideshowView.IsVisible = false;
             ChooseView.IsVisible = true;
+        }
+
+        private void OpenDetail(string key)
+        {
+            if (!_ninjas.TryGetValue(key, out var ninja)) return;
+
+            var win = new NinjaDetailWindow(ninja, _asmName);
+            win.Show(this);
         }
 
         private static Stream? TryOpenImageStream(string asmName, string name, out Uri? foundUri)

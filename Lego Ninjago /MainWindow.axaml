@@ -7,13 +7,11 @@
         MinWidth="720" MinHeight="420">
 
   <Grid>
-
+    <!-- SlideShow -->
     <Grid x:Name="SlideshowView" RowDefinitions="Auto,*" Margin="16">
-
       <TextBlock Text="Meet the Ninjas!"
                  FontSize="32" FontWeight="Bold"
                  HorizontalAlignment="Center" Margin="0,0,0,12"/>
-
       <Grid Grid.Row="1">
         <Border CornerRadius="16" Background="#222" Padding="8">
           <Image x:Name="ImgNinja"
@@ -35,18 +33,20 @@
         <Button x:Name="BtnDone"
                 Content="Done"
                 Width="100" Height="40"
-                Background= "DimGray"
+                Background="DimGray"
                 FontSize="18" FontWeight="Bold"
                 HorizontalAlignment="Center" VerticalAlignment="Bottom"
                 Margin="0,0,0,12"
-                IsVisible="False"/>  
+                IsVisible="False"/>
       </Grid>
     </Grid>
-      
+
+    <!-- Choose Grid -->
     <Grid x:Name="ChooseView"
           IsVisible="False"
           Margin="16"
-          RowDefinitions="*,*,*" ColumnDefinitions="*,*,*">
+          RowDefinitions="*,*,*"
+          ColumnDefinitions="*,*,*">
 
       <Button x:Name="BtnCole" Grid.Row="0" Grid.Column="0"
               Background="Black" Foreground="AliceBlue" FontWeight="Bold"

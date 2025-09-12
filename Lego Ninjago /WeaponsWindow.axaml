@@ -1,0 +1,40 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="Lego_Ninjago.WeaponsWindow"
+        Title="Choose Weapons"
+        Width="720" Height="500"
+        Background="#1e1e1e">
+    <Grid RowDefinitions="Auto,*,Auto" Margin="16">
+        <TextBlock x:Name="TxtHeader"
+                   FontSize="26"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   Margin="0,0,0,12" />
+
+        <ScrollViewer Grid.Row="1">
+            <WrapPanel x:Name="WeaponPanel"
+                       ItemWidth="200"
+                       ItemHeight="100"
+                       Orientation="Horizontal"
+                       HorizontalAlignment="Center" />
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    Spacing="12"
+                    Margin="0,12,0,0">
+            <Button x:Name="BtnConfirm"
+                    Content="Confirm"
+                    Width="120"
+                    Height="36"
+                    Background="#3a7"
+                    Foreground="White"
+                    FontWeight="Bold" />
+            <Button x:Name="BtnCancel"
+                    Content="Cancel"
+                    Width="100"
+                    Height="36" />
+        </StackPanel>
+    </Grid>
+</Window>
