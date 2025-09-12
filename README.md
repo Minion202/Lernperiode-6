@@ -59,12 +59,14 @@ Jetzt habe ich es aber gelernt und werde es beim nächsten Mal wieder anwenden.
 
 Ich habe heute alles umgesetzt, allerdings funktioniert der Wechsel zur neuen Weapons-Seite noch nicht, obwohl ich sicher bin, dass ich alles dafür erstellt habe. Mein Ziel ist es, dieses Problem bis zum nächsten Mal zu beheben. Insgesamt bin ich jedoch sehr zufrieden, da ich heute grosse Fortschritte gemacht habe.
 
+## 19.9
 
 - [ ] Die Navigation zur Weapons-Seite reparieren, sodass beim Klick auf „Choose“ die Detailseite schliesst und die Weapons-Seite mit den Ninja-Daten öffnet.
 - [ ] Auf der Weapons-Seite sechs Waffen mit Bild, Namen und „Select“-Button responsive in einem schönen Layout anzeigen.
 - [ ] Das gesamte Design mit Farben, Abständen, runden Karten, Schatten und Effekten optisch ansprechender gestalten.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
 
 
 
