@@ -61,11 +61,17 @@ Ich habe heute alles umgesetzt, allerdings funktioniert der Wechsel zur neuen We
 
 ## 19.9
 
-- [ ] Die Navigation zur Weapons-Seite reparieren, sodass beim Klick auf „Choose“ die Detailseite schliesst und die Weapons-Seite mit den Ninja-Daten öffnet.
-- [ ] Auf der Weapons-Seite sechs Waffen mit Bild, Namen und „Select“-Button responsive in einem schönen Layout anzeigen.
-- [ ] Das gesamte Design mit Farben, Abständen, runden Karten, Schatten und Effekten optisch ansprechender gestalten.
+- [x] Die Navigation zur Weapons-Seite reparieren, sodass beim Klick auf „Choose“ die Detailseite schliesst und die Weapons-Seite mit den Ninja-Daten öffnet.
+- [x] Auf der Weapons-Seite sechs Waffen mit Bild, Namen und „Select“-Button responsive in einem schönen Layout anzeigen.
+- [x] Meine Debatte üben für den Deutsch Unterricht, die Frage behandelt sich darum, ob nach der Schule nur noch Online Unterricht stattfinden sollte oder nicht.
+- [ ] 
+Heute habe ich meine Ziele erreicht: Ich kann nun Waffen auswählen. Allerdings gefällt mir die aktuelle Darstellung noch nicht, und es gibt noch einige Funktionen, die ich anpassen möchte. Ausserdem möchte ich für die Waffen noch passende Bilder hinzufügen. Zusätzlich konnte ich für meine Debatte üben und habe einen Teil meiner Zeit dafür genutzt.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 10.10
+
+- [ ] Mann kann die Waffen mehr als 3x wählen, dass heisst alle 6 Waffen können ausgewählt werden. Dies nuss geändert werden.
+- [ ] Nachdem man die Waffen ausgewählt hat, sollte man auf eine Seite kommen, wo nur der Ninja mit nun allen Fähigkeiten, seinen Stärken und all seinen Waffen vorkommen sollte.
+- [ ] Das gesamte Design mit Farben, Abständen, runden Karten, Schatten und Effekten optisch ansprechender gestalten.
 
 
 
