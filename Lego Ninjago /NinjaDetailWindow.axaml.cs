@@ -22,15 +22,37 @@ namespace Lego_Ninjago
             ListAbilities.ItemsSource = _ninja.Abilities;
             ListStrengths.ItemsSource = _ninja.Strengths;
 
-
             TryLoadImage(_ninja);
+
             BtnBack.Click += (_, __) => Close();
+            
             BtnChoose.Click += (_, __) =>
             {
-                var win = new WeaponsWindow(_ninja);
-                win.Show(this);
-                Close(); // nach Choose direkt zur Waffen-Seite
-            };
+                try
+                {
+                    var win = new WeaponsWindow(_ninja);
+                    win.Show(); 
+                    
+                    Close();
+                }
+                catch (Exception ex)
+                {
+                    new Window
+                    {
+                        Title = "Navigation error",
+                        Width = 500,
+                        Height = 260,
+                        Content = new ScrollViewer
+                        {
+                            Content = new TextBlock
+                            {
+                                Text = ex.ToString(),
+                                TextWrapping = Avalonia.Media.TextWrapping.Wrap
+                            }
+                        }
+                    }.Show();
+                }
+            }; // ← fehlte vorher
         }
 
         private void TryLoadImage(Ninja n)

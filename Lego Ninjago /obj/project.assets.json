@@ -1444,7 +1444,7 @@
         "net9.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/9.0.7/libexec/library-packs": {},
+        "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1506,7 +1506,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.7/libexec/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

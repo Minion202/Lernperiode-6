@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lego Ninjago")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59fd87568e426c713e30aac490b534fe6b3a5cdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a10c1205776526f2a9ce03fafabf8a2979e178")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lego Ninjago")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lego Ninjago")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
