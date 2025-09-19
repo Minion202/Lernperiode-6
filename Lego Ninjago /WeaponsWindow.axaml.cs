@@ -1,5 +1,5 @@
 using Avalonia.Controls;
-using Avalonia.Controls.Primitives;   // ToggleButton
+using Avalonia.Controls.Primitives;  
 using Avalonia.Layout;
 using System.Collections.Generic;
 
@@ -12,7 +12,7 @@ namespace Lego_Ninjago
 
         public WeaponsWindow(Ninja ninja)
         {
-            InitializeComponent();    // muss zuerst kommen
+            InitializeComponent();   
             SelectedNinja = ninja;
 
             TxtHeader.Text = $"Select Weapons for {SelectedNinja.Name}";
