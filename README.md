@@ -69,9 +69,17 @@ Heute habe ich meine Ziele erreicht: Ich kann nun Waffen auswählen. Allerdings 
 
 ## 10.10
 
-- [ ] Mann kann die Waffen mehr als 3x wählen, dass heisst alle 6 Waffen können ausgewählt werden. Dies nuss geändert werden.
-- [ ] Nachdem man die Waffen ausgewählt hat, sollte man auf eine Seite kommen, wo nur der Ninja mit nun allen Fähigkeiten, seinen Stärken und all seinen Waffen vorkommen sollte.
-- [ ] Das gesamte Design mit Farben, Abständen, runden Karten, Schatten und Effekten optisch ansprechender gestalten.
+- [x] Mann kann die Waffen mehr als 3x wählen, dass heisst alle 6 Waffen können ausgewählt werden. Dies nuss geändert werden.
+- [x] Nachdem man die Waffen ausgewählt hat, sollte man auf eine Seite kommen, wo nur der Ninja mit nun allen Fähigkeiten, seinen Stärken und all seinen Waffen vorkommen sollte.
+- [x] Das gesamte Design mit Farben, Abständen, runden Karten, Schatten und Effekten optisch ansprechender gestalten.
+
+
+## Reflexion
+
+
+Ich habe dieses Projekt sehr gut gefunden. Es hat mir viel über die objektorientierte Programmierung beigebracht. Besonders hilfreich war, dass ich gleichzeitig noch ein anderes Modul hatte,
+das sich ebenfalls mit OOP beschäftigt, so war das Projekt wie ein zusätzliches Training, bei dem ich mein Wissen direkt anwenden konnte.
+Insgesamt hat mir das Projekt gut gefallen. Das Design könnte zwar noch etwas verbessert werden, aber sonst bin ich sehr zufrieden damit.
 
 
 
