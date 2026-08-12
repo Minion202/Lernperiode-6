@@ -1,17 +1,9 @@
 # Lernperiode 6
+## Lego Ninjago mit OOP
 
 12.8 bis 27.9.2024
 
 ## Grob-Planung
-
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/05a7534f-5c82-448f-8ebf-f7ccfc1165c1" />
-
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/7ae10d41-75e4-473b-8030-3b1312e60339" />
-
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d2182a3-cef2-477f-8ea4-459a84477a2d" />
-
-
-
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 2. Welches der Module 231, 320, 322 scheint Ihnen besonders wichtig? Wo brauchen Sie am meisten Übung?
@@ -75,7 +67,6 @@ Heute habe ich meine Ziele erreicht: Ich kann nun Waffen auswählen. Allerdings 
 
 
 ## Reflexion
-
 
 Ich habe dieses Projekt sehr gut gefunden. Es hat mir viel über die objektorientierte Programmierung beigebracht. Besonders hilfreich war, dass ich gleichzeitig noch ein anderes Modul hatte,
 das sich ebenfalls mit OOP beschäftigt, so war das Projekt wie ein zusätzliches Training, bei dem ich mein Wissen direkt anwenden konnte.
