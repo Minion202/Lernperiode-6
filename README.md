@@ -1,4 +1,4 @@
-# Lernperiode 6
+# Lern Periode 6
 ## Lego Ninjago mit OOP
 
 12.8 bis 27.9.2024
